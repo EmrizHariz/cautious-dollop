@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>  
+  <Item Type="3">\Windows\WinSxS\</Item>
+  <Item Type="6">google</Item>
+  <Item Type="6">yandex</Item>
+  <Item Type="6">yahoo</Item>
+  <Item Type="6">mail.ru</Item>
+  <Item Type="4">chrome-extension</Item>
+  <Item Type="4">moz-extension</Item>
+  <Item Type="6">facebook</Item>
+  <Item Type="6">live.com</Item>
+  <Item Type="6">twitter.com</Item>
+  <Item Type="1">\Temp\Fine.SSR</Item>
+  <Item Type="1">\Temp\Retail.SSR</Item>
+  <Item Type="1">\Temp\ABBYY\FineReader</Item>
+  <Item Type="3">digitiz.exe</Item>
+</Root>
